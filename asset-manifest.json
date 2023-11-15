@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/raamatud/static/css/main.ac5d546b.css",
+    "main.js": "/raamatud/static/js/main.24ce0651.js",
+    "static/js/787.9be75ee7.chunk.js": "/raamatud/static/js/787.9be75ee7.chunk.js",
+    "static/media/nightparade.jpg": "/raamatud/static/media/nightparade.e95c6698acb59a32bd26.jpg",
+    "static/media/makingitso.jpg": "/raamatud/static/media/makingitso.4926754047e5483a91ae.jpg",
+    "static/media/ongreatfields.jpg": "/raamatud/static/media/ongreatfields.fe4f200dde15b33db341.jpg",
+    "index.html": "/raamatud/index.html",
+    "main.ac5d546b.css.map": "/raamatud/static/css/main.ac5d546b.css.map",
+    "main.24ce0651.js.map": "/raamatud/static/js/main.24ce0651.js.map",
+    "787.9be75ee7.chunk.js.map": "/raamatud/static/js/787.9be75ee7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5d546b.css",
+    "static/js/main.24ce0651.js"
+  ]
+}
